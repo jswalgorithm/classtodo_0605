@@ -1,0 +1,31 @@
+╭─── Claude Code v2.1.144 ─────────────────────────────────────────────────────╮
+│                                                    │ Tips for getting        │
+│                 Welcome back 네오!                 │ started                 │
+│                                                    │ Run /init to create a … │
+│                       ▐▛███▜▌                      │ ─────────────────────── │
+│                      ▝▜█████▛▘                     │ What's new              │
+│                        ▘▘ ▝▝                       │ Added `/resume` suppor… │
+│  Sonnet 4.6 · Claude Pro · jsw.karma@gmail.com's   │ Added elapsed duration… │
+│  Organization                                      │ The `/plugin` browse a… │
+│    /mnt/c/Users/Admin/Documents/classtodo_0605     │ /release-notes for more │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+❯ /model                                                                        
+  ⎿  Set model to Sonnet 4.6 (default) for this session
+
+❯ /usage 
+  ⎿  Settings dialog dismissed
+
+❯ /mcp                                                                          
+  ⎿  No MCP servers configured. Please run /doctor if this is unexpected.
+     Otherwise, run claude mcp --help or visit
+     https://code.claude.com/docs/en/mcp to learn more.
+
+❯ /model                                                                        
+  ⎿  Set model to Sonnet 4.6 (default) for this session
+
+❯ /usage 
+  ⎿  Settings dialog dismissed
+
+❯ /help 
+  ⎿  Help dialog dismissed
